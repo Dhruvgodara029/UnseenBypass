@@ -1,15 +1,18 @@
-# Python
+# SUMO generated/intermediate files
+braess_sim/sweep.*
+braess_sim/*.net.xml
+braess_sim/*.nod.xml
+braess_sim/*.edg.xml
+braess_sim/*.rou.xml
+braess_sim/*.trips.xml
+braess_sim/edge_output.xml
+braess_sim/edgedata.add.xml
+braess_sim/grid.sumocfg
+braess_sim/features.csv
+braess_sim/data.csv
+
+# Python cache
 __pycache__/
 *.pyc
+
 .ipynb_checkpoints/
-
-# Virtual environments
-venv/
-.env/
-
-# VS Code
-.vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
